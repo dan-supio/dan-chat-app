@@ -1,0 +1,63 @@
+.blinkingCursor.blinkingCursor.blinkingCursor {
+  color: #2e3d48;
+  font-size: 1.2em;
+  line-height: 1em;
+  animation: blink 0.5s step-end infinite;
+  animation: blink 0.5s step-end infinite;
+  animation: blink 0.5s step-end infinite;
+}
+
+@keyframes blink {
+  from,
+  to {
+    color: transparent;
+  }
+
+  50% {
+    color: black;
+  }
+}
+
+@keyframes blink {
+  from,
+  to {
+    color: transparent;
+  }
+
+  50% {
+    color: black;
+  }
+}
+
+@keyframes blink {
+  from,
+  to {
+    color: transparent;
+  }
+
+  50% {
+    color: black;
+  }
+}
+
+@keyframes blink {
+  from,
+  to {
+    color: transparent;
+  }
+
+  50% {
+    color: black;
+  }
+}
+
+@keyframes blink {
+  from,
+  to {
+    color: transparent;
+  }
+
+  50% {
+    color: black;
+  }
+}
